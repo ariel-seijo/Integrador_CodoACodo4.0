@@ -2,7 +2,7 @@
 
 #seccion-1 {
     position: relative;
-    background-color: red;
+    background-color: white;
     height: 90vh;
     padding: 0%;
 }
@@ -34,6 +34,10 @@
 
 #comprartick {
     color: rgb(34, 146, 59);
+}
+
+#comprartick:active {
+    color: rgb(24, 104, 41);
 }
 
 @media screen and (max-width: 1199px) {
